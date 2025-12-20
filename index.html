@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Планета Земля — Викторина</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="title-group">
+      <p class="eyebrow">Интерактивная викторина</p>
+      <h1>Планета Земля</h1>
+      <p class="tagline">Ответьте на вопросы и узнайте, почему это интересно</p>
+    </div>
+    <div class="status" id="status-area" aria-live="polite"></div>
+  </header>
+
+  <main>
+    <section id="menu-screen" class="screen active" aria-label="Меню вопросов">
+      <div class="menu-intro">
+        <p>Выберите номер вопроса, чтобы открыть карточку. На мобильных устройствах прокручивайте список.</p>
+      </div>
+      <div id="question-grid" class="grid" role="list"></div>
+    </section>
+
+    <section id="question-screen" class="screen" aria-label="Карточка вопроса" hidden>
+      <button id="back-button" class="back">⟵ Назад</button>
+      <article class="card" aria-live="polite">
+        <div class="card-header">
+          <p class="card-kicker" id="question-title"></p>
+          <h2 id="question-text"></h2>
+          <p id="question-subtext" class="subtext"></p>
+        </div>
+        <div id="media-container" class="media"></div>
+        <div id="answers" class="answers" role="group" aria-label="Варианты ответа"></div>
+        <section id="fact" class="fact" hidden>
+          <h3>Почему это интересно?</h3>
+          <p id="fact-text"></p>
+        </section>
+      </article>
+    </section>
+  </main>
+
+  <template id="answer-button-template">
+    <button class="answer" type="button"></button>
+  </template>
+
+  <script src="script.js"></script>
+</body>
+</html>
