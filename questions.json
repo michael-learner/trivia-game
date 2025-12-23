@@ -803,7 +803,7 @@
     "id": 51,
     "title": "Планета Земля",
     "prompt": "Вопрос 51: что вы знаете о нашей планете?",
-    "mediaType": "none",
+    "mediaType": "audio",
     "mediaSrc": "assets/audio/51.mp3",
     "question": "Факт #51: выберите верное утверждение.",
     "answers": [
@@ -819,7 +819,7 @@
     "id": 52,
     "title": "Планета Земля",
     "prompt": "Вопрос 52: что вы знаете о нашей планете?",
-    "mediaType": "none",
+    "mediaType": "audio",
     "mediaSrc": "assets/audio/52.mp3",
     "question": "Факт #52: выберите верное утверждение.",
     "answers": [
@@ -835,7 +835,7 @@
     "id": 53,
     "title": "Планета Земля",
     "prompt": "Вопрос 53: что вы знаете о нашей планете?",
-    "mediaType": "none",
+    "mediaType": "audio",
     "mediaSrc": "assets/audio/53.mp3",
     "question": "Факт #53: выберите верное утверждение.",
     "answers": [
@@ -851,7 +851,7 @@
     "id": 54,
     "title": "Планета Земля",
     "prompt": "Вопрос 54: что вы знаете о нашей планете?",
-    "mediaType": "none",
+    "mediaType": "audio",
     "mediaSrc": "assets/audio/54.mp3",
     "question": "Факт #54: выберите верное утверждение.",
     "answers": [
@@ -867,7 +867,7 @@
     "id": 55,
     "title": "Планета Земля",
     "prompt": "Вопрос 55: что вы знаете о нашей планете?",
-    "mediaType": "none",
+    "mediaType": "audio",
     "mediaSrc": "assets/audio/55.mp3",
     "question": "Факт #55: выберите верное утверждение.",
     "answers": [
@@ -883,7 +883,7 @@
     "id": 56,
     "title": "Планета Земля",
     "prompt": "Вопрос 56: что вы знаете о нашей планете?",
-    "mediaType": "none",
+    "mediaType": "audio",
     "mediaSrc": "assets/audio/56.mp3",
     "question": "Факт #56: выберите верное утверждение.",
     "answers": [
@@ -899,7 +899,7 @@
     "id": 57,
     "title": "Планета Земля",
     "prompt": "Вопрос 57: что вы знаете о нашей планете?",
-    "mediaType": "none",
+    "mediaType": "audio",
     "mediaSrc": "assets/audio/57.mp3",
     "question": "Факт #57: выберите верное утверждение.",
     "answers": [
@@ -915,7 +915,7 @@
     "id": 58,
     "title": "Планета Земля",
     "prompt": "Вопрос 58: что вы знаете о нашей планете?",
-    "mediaType": "none",
+    "mediaType": "audio",
     "mediaSrc": "assets/audio/58.mp3",
     "question": "Факт #58: выберите верное утверждение.",
     "answers": [
@@ -931,7 +931,7 @@
     "id": 59,
     "title": "Планета Земля",
     "prompt": "Вопрос 59: что вы знаете о нашей планете?",
-    "mediaType": "none",
+    "mediaType": "audio",
     "mediaSrc": "assets/audio/59.mp3",
     "question": "Факт #59: выберите верное утверждение.",
     "answers": [
@@ -947,7 +947,7 @@
     "id": 60,
     "title": "Планета Земля",
     "prompt": "Вопрос 60: что вы знаете о нашей планете?",
-    "mediaType": "none",
+    "mediaType": "audio",
     "mediaSrc": "assets/audio/60.mp3",
     "question": "Факт #60: выберите верное утверждение.",
     "answers": [
