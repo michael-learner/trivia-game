@@ -5,7 +5,7 @@
         "title": "Вопрос 1",
         "prompt": "Вопрос 1",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/1.jpeg",
         "question": "В каком испанском городе углы домов «срезаны», образуя восьмиугольники?",
         "answers": [
             "Мадрид",
@@ -21,7 +21,7 @@
         "title": "Вопрос 2",
         "prompt": "Вопрос 2",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/2.jpeg",
         "question": "Какой город спроектирован в форме идеальной девятиконечной звезды для защиты от нападений?",
         "answers": [
             "Копенгаген",
@@ -37,7 +37,7 @@
         "title": "Вопрос 3",
         "prompt": "Вопрос 3",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/3.jpeg",
         "question": "Эти «зеленые ступеньки» в горах Азии созданы людьми. Что на них выращивают?",
         "answers": [
             "Пшеницу",
@@ -53,7 +53,7 @@
         "title": "Вопрос 4",
         "prompt": "Вопрос 4",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/4.jpeg",
         "question": "Какое растение напоминает очертание этого искусственного острова в Дубае?",
         "answers": [
             "Драцену",
@@ -69,7 +69,7 @@
         "title": "Вопрос 5",
         "prompt": "Вопрос 5",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/5.jpeg",
         "question": "Центр этого города похож на паутину, где все дороги сходятся к одной Триумфальной арке. Что это за город?",
         "answers": [
             "Лондон",
@@ -85,7 +85,7 @@
         "title": "Вопрос 6",
         "prompt": "Вопрос 6",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/6.jpeg",
         "question": "Перед вами столица, построенная «с нуля» в форме летящей птицы или самолета. Как она называется?",
         "answers": [
             "Канберра",
@@ -101,7 +101,7 @@
         "title": "Вопрос 7",
         "prompt": "Вопрос 7",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/7.jpeg",
         "question": "В какой стране дома традиционно раскрашивают в яркие цвета, чтобы моряки видели свой дом издалека в тумане?",
         "answers": [
             "Италия",
@@ -117,7 +117,7 @@
         "title": "Вопрос 8",
         "prompt": "Вопрос 8",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/8.jpeg",
         "question": "Эта сине-белая плитка «азулежу» — визитная карточка архитектуры какой страны?",
         "answers": [
             "Испании",
@@ -133,7 +133,7 @@
         "title": "Вопрос 9",
         "prompt": "Вопрос 9",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/9.jpeg",
         "question": "Вопрос 9: Текст вопроса временно отсутствует.",
         "answers": [
             "Вариант 1",
@@ -149,7 +149,7 @@
         "title": "Вопрос 10",
         "prompt": "Вопрос 10",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/10.jpeg",
         "question": "Синие купола и белоснежные стены — визитная карточка какого греческого острова?",
         "answers": [
             "Крит",
@@ -165,7 +165,7 @@
         "title": "Вопрос 11",
         "prompt": "Вопрос 11",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/11.jpeg",
         "question": "Почему крыши этих домов в Японии (Сиракава-го) такие крутые?",
         "answers": [
             "Чтобы быть ближе к небу",
@@ -181,7 +181,7 @@
         "title": "Вопрос 12",
         "prompt": "Вопрос 12",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/12.jpeg",
         "question": "В какой стране находится этот «Манхэттен пустыни» с древними небоскребами из глины?",
         "answers": [
             "Йемен",
@@ -197,7 +197,7 @@
         "title": "Вопрос 13",
         "prompt": "Вопрос 13",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/13.jpeg",
         "question": "Вопрос 13: Текст вопроса временно отсутствует.",
         "answers": [
             "Вариант 1",
@@ -213,7 +213,7 @@
         "title": "Вопрос 14",
         "prompt": "Вопрос 14",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/14.jpeg",
         "question": "Почему эта яркая «нить» огней тянется через безжизненную пустыню?",
         "answers": [
             "Это автомагистраль",
@@ -229,7 +229,7 @@
         "title": "Вопрос 15",
         "prompt": "Вопрос 15",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/15.jpeg",
         "question": "Эту страну называют «сапогом» из-за её формы, которую отлично видно по ночным огням. Что это за страна?",
         "answers": [
             "Франция",
@@ -245,7 +245,7 @@
         "title": "Вопрос 16",
         "prompt": "Вопрос 16",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/16.jpeg",
         "question": "Вопрос 16: Текст вопроса временно отсутствует.",
         "answers": [
             "Вариант 1",
@@ -261,7 +261,7 @@
         "title": "Вопрос 17",
         "prompt": "Вопрос 17",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/17.jpeg",
         "question": "Какой архипелаг ночью из космоса похож на россыпь искр в океане?",
         "answers": [
             "Япония",
@@ -277,7 +277,7 @@
         "title": "Вопрос 18",
         "prompt": "Вопрос 18",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/18.jpeg",
         "question": "Самое яркое пятно на карте Европы ночью — это город...",
         "answers": [
             "Берлин",
@@ -293,7 +293,7 @@
         "title": "Вопрос 19",
         "prompt": "Вопрос 19",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/19.jpeg",
         "question": "Как называется эта длинная черная лодка в Венеции, которой управляют одним веслом?",
         "answers": [
             "Каноэ",
@@ -309,7 +309,7 @@
         "title": "Вопрос 20",
         "prompt": "Вопрос 20",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/20.jpeg",
         "question": "Эти ярко раскрашенные «джипни» стали главным транспортом в какой стране?",
         "answers": [
             "Куба",
@@ -325,7 +325,7 @@
         "title": "Вопрос 21",
         "prompt": "Вопрос 21",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/21.jpeg",
         "question": "Почему японский скоростной поезд Синкансэн называют «поезд-пуля»?",
         "answers": [
             "Он очень маленький",
@@ -341,7 +341,7 @@
         "title": "Вопрос 22",
         "prompt": "Вопрос 22",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/22.jpeg",
         "question": "В каком городе можно проехаться на подвесном трамвае, который висит прямо над рекой?",
         "answers": [
             "Токио",
@@ -357,7 +357,7 @@
         "title": "Вопрос 23",
         "prompt": "Вопрос 23",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/23.jpeg",
         "question": "Как называется трехколесная повозка-такси, популярная в Таиланде?",
         "answers": [
             "Бибика",
@@ -373,7 +373,7 @@
         "title": "Вопрос 24",
         "prompt": "Вопрос 24",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/24.jpeg",
         "question": "Традиционный красный двухэтажный автобус - это визитная карточка какого города?",
         "answers": [
             "Лондон",
@@ -389,7 +389,7 @@
         "title": "Вопрос 25",
         "prompt": "Вопрос 25",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/25.jpeg",
         "question": "В какой стране хлеб в форме длинной палки (багет) считается национальным символом?",
         "answers": [
             "Италия",
@@ -405,7 +405,7 @@
         "title": "Вопрос 26",
         "prompt": "Вопрос 26",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/26.jpeg",
         "question": "Что продают на знаменитых плавучих рынках в Таиланде?",
         "answers": [
             "Электронику",
@@ -421,7 +421,7 @@
         "title": "Вопрос 27",
         "prompt": "Вопрос 27",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/27.jpeg",
         "question": "Из какого сырья делают знаменитый швейцарский сыр с дырками?",
         "answers": [
             "Из теста",
@@ -437,7 +437,7 @@
         "title": "Вопрос 28",
         "prompt": "Вопрос 28",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/28.jpeg",
         "question": "Разноцветные конусы порошка на рынках Марракеша — это...",
         "answers": [
             "Косметика",
@@ -453,7 +453,7 @@
         "title": "Вопрос 29",
         "prompt": "Вопрос 29",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/29.jpeg",
         "question": "Какая страна является родиной этого блюда?",
         "answers": [
             "Испания",
@@ -469,7 +469,7 @@
         "title": "Вопрос 30",
         "prompt": "Вопрос 30",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/30.jpeg",
         "question": "В какой стране принято подавать «хансик» — обед из множества закусок в маленьких пиалах?",
         "answers": [
             "Турция",
@@ -485,7 +485,7 @@
         "title": "Вопрос 31",
         "prompt": "Вопрос 31",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/31.jpeg",
         "question": "Почему город Припять в Украине называют «городом-призраком»?",
         "answers": [
             "Там живут привидения",
@@ -501,7 +501,7 @@
         "title": "Вопрос 32",
         "prompt": "Вопрос 32",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/32.jpeg",
         "question": "Этот заброшенный город-крепость инков находится высоко в горах. Как он называется?",
         "answers": [
             "Чичен-Ица",
@@ -517,7 +517,7 @@
         "title": "Вопрос 33",
         "prompt": "Вопрос 33",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/33.jpeg",
         "question": "Что «съело» заброшенный город Колманскоп в Намибии, заполнив дома до потолка?",
         "answers": [
             "Вода",
@@ -533,7 +533,7 @@
         "title": "Вопрос 34",
         "prompt": "Вопрос 34",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/34.jpeg",
         "question": "На японском острове Хасима раньше добывали полезное ископаемое. Какое?",
         "answers": [
             "Золото",
@@ -549,7 +549,7 @@
         "title": "Вопрос 35",
         "prompt": "Вопрос 35",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/35.jpeg",
         "question": "Древние храмы Ангкора в Камбодже известны тем, что они переплетены...",
         "answers": [
             "Лианами",
@@ -565,7 +565,7 @@
         "title": "Вопрос 36",
         "prompt": "Вопрос 36",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/36.jpeg",
         "question": "Ржавые корабли посреди пустыни Аралкум напоминают о высохшем...",
         "answers": [
             "Каспийском море",
@@ -581,7 +581,7 @@
         "title": "Вопрос 37",
         "prompt": "Вопрос 37",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/37.jpeg",
         "question": "Это дерево называют «перевернутым», потому что его ветви похожи на корни. Как оно называется?",
         "answers": [
             "Дуб",
@@ -597,7 +597,7 @@
         "title": "Вопрос 38",
         "prompt": "Вопрос 38",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/38.jpeg",
         "question": "Где растет уникальное «драконово дерево» в форме зонтика?",
         "answers": [
             "Мадагаскар",
@@ -613,7 +613,7 @@
         "title": "Вопрос 39",
         "prompt": "Вопрос 39",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/39.jpeg",
         "question": "Цветение какого дерева каждую весну празднуют в Японии?",
         "answers": [
             "Яблони",
@@ -629,7 +629,7 @@
         "title": "Вопрос 40",
         "prompt": "Вопрос 40",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/40.jpeg",
         "question": "В какой стране растут эти самые высокие деревья в мире?",
         "answers": [
             "Канада",
@@ -645,7 +645,7 @@
         "title": "Вопрос 41",
         "prompt": "Вопрос 41",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/41.jpeg",
         "question": "У какого растения в пустыне совсем нет листьев, зато много колючек?",
         "answers": [
             "Кактус",
@@ -661,7 +661,7 @@
         "title": "Вопрос 42",
         "prompt": "Вопрос 42",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/42.jpeg",
         "question": "Этот огромный цветок пахнет тухлым мясом, чтобы привлекать мух. Как он называется?",
         "answers": [
             "Лотос",
@@ -677,7 +677,7 @@
         "title": "Вопрос 43",
         "prompt": "Вопрос 43",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/43.jpeg",
         "question": "Вопрос 43: Текст вопроса временно отсутствует.",
         "answers": [
             "Вариант 1",
@@ -693,7 +693,7 @@
         "title": "Вопрос 44",
         "prompt": "Вопрос 44",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/44.jpeg",
         "question": "В какой стране вы увидите такие необычные округлые буквы?",
         "answers": [
             "Греция",
@@ -709,7 +709,7 @@
         "title": "Вопрос 45",
         "prompt": "Вопрос 45",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/45.jpeg",
         "question": "Как называется письменность, которую читают и пишут справа налево?",
         "answers": [
             "Китайская",
@@ -725,7 +725,7 @@
         "title": "Вопрос 46",
         "prompt": "Вопрос 46",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/46.jpeg",
         "question": "Вопрос 46: Текст вопроса временно отсутствует.",
         "answers": [
             "Вариант 1",
@@ -741,7 +741,7 @@
         "title": "Вопрос 47",
         "prompt": "Вопрос 47",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/47.jpeg",
         "question": "В какой стране тысячи лет назад придумали иероглифы?",
         "answers": [
             "Китай",
@@ -757,7 +757,7 @@
         "title": "Вопрос 48",
         "prompt": "Вопрос 48",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/48.jpeg",
         "question": "Перед вами один из древнейших и уникальных алфавитов мира, не похожий ни на один другой. В какой стране Кавказа на нём пишут?",
         "answers": [
             "Армения",
@@ -773,7 +773,7 @@
         "title": "Вопрос 49",
         "prompt": "Вопрос 49",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/49.jpeg",
         "question": "Вопрос 49: Текст вопроса временно отсутствует.",
         "answers": [
             "Вариант 1",
@@ -789,7 +789,7 @@
         "title": "Вопрос 50",
         "prompt": "Вопрос 50",
         "mediaType": "image",
-        "mediaSrc": "",
+        "mediaSrc": "assets/images/50.jpeg",
         "question": "Этот алфавит считается одним из самых логичных в мире, так как формы его букв повторяют положение языка и губ при произношении. Как он называется?",
         "answers": [
             "Катана",
