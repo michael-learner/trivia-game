@@ -84,7 +84,7 @@
         "title": "Вопрос 6",
         "prompt": "Вопрос 6",
         "mediaType": "image",
-        "mediaSrc": "assets/images/6.jpg",
+        "mediaSrc": "assets/images/6.jpeg",
         "question": "Перед вами столица, построенная «с нуля» в форме летящей птицы или самолета. Как она называется?",
         "answers": [
             "Канберра",
@@ -196,7 +196,7 @@
         "title": "Вопрос 13",
         "prompt": "Вопрос 13",
         "mediaType": "image",
-        "mediaSrc": "assets/images/13.jpg",
+        "mediaSrc": "assets/images/13.jpeg",
         "question": "Вопрос 13: Текст вопроса временно отсутствует.",
         "answers": [
             "Вариант 1",
@@ -260,7 +260,7 @@
         "title": "Вопрос 17",
         "prompt": "Вопрос 17",
         "mediaType": "image",
-        "mediaSrc": "assets/images/17.jpg",
+        "mediaSrc": "assets/images/17.jpeg",
         "question": "Какой архипелаг ночью из космоса похож на россыпь искр в океане?",
         "answers": [
             "Япония",
@@ -356,7 +356,7 @@
         "title": "Вопрос 23",
         "prompt": "Вопрос 23",
         "mediaType": "image",
-        "mediaSrc": "assets/images/23.jpg",
+        "mediaSrc": "assets/images/23.jpeg",
         "question": "Как называется трехколесная повозка-такси, популярная в Таиланде?",
         "answers": [
             "Бибика",
@@ -404,7 +404,7 @@
         "title": "Вопрос 26",
         "prompt": "Вопрос 26",
         "mediaType": "image",
-        "mediaSrc": "assets/images/26.jpg",
+        "mediaSrc": "assets/images/26.jpeg",
         "question": "Что продают на знаменитых плавучих рынках в Таиланде?",
         "answers": [
             "Электронику",
@@ -468,7 +468,7 @@
         "title": "Вопрос 30",
         "prompt": "Вопрос 30",
         "mediaType": "image",
-        "mediaSrc": "assets/images/30.jpg",
+        "mediaSrc": "assets/images/30.jpeg",
         "question": "В какой стране принято подавать «хансик» — обед из множества закусок в маленьких пиалах?",
         "answers": [
             "Турция",
@@ -532,7 +532,7 @@
         "title": "Вопрос 34",
         "prompt": "Вопрос 34",
         "mediaType": "image",
-        "mediaSrc": "assets/images/34.jpg",
+        "mediaSrc": "assets/images/34.jpeg",
         "question": "На японском острове Хасима раньше добывали полезное ископаемое. Какое?",
         "answers": [
             "Золото",
@@ -628,7 +628,7 @@
         "title": "Вопрос 40",
         "prompt": "Вопрос 40",
         "mediaType": "image",
-        "mediaSrc": "assets/images/40.jpg",
+        "mediaSrc": "assets/images/40.jpeg",
         "question": "В какой стране растут эти самые высокие деревья в мире?",
         "answers": [
             "Канада",
@@ -676,7 +676,7 @@
         "title": "Вопрос 43",
         "prompt": "Вопрос 43",
         "mediaType": "image",
-        "mediaSrc": "assets/images/43.jpg",
+        "mediaSrc": "assets/images/43.jpeg",
         "question": "Вопрос 43: Текст вопроса временно отсутствует.",
         "answers": [
             "Вариант 1",
@@ -692,7 +692,7 @@
         "title": "Вопрос 44",
         "prompt": "Вопрос 44",
         "mediaType": "image",
-        "mediaSrc": "assets/images/44.jpg",
+        "mediaSrc": "assets/images/44.jpeg",
         "question": "В какой стране вы увидите такие необычные округлые буквы?",
         "answers": [
             "Греция",
@@ -708,7 +708,7 @@
         "title": "Вопрос 45",
         "prompt": "Вопрос 45",
         "mediaType": "image",
-        "mediaSrc": "assets/images/45.jpg",
+        "mediaSrc": "assets/images/45.jpeg",
         "question": "Как называется письменность, которую читают и пишут справа налево?",
         "answers": [
             "Китайская",
@@ -724,7 +724,7 @@
         "title": "Вопрос 46",
         "prompt": "Вопрос 46",
         "mediaType": "image",
-        "mediaSrc": "assets/images/46.jpg",
+        "mediaSrc": "assets/images/46.jpeg",
         "question": "Вопрос 46: Текст вопроса временно отсутствует.",
         "answers": [
             "Вариант 1",
@@ -740,7 +740,7 @@
         "title": "Вопрос 47",
         "prompt": "Вопрос 47",
         "mediaType": "image",
-        "mediaSrc": "assets/images/47.jpg",
+        "mediaSrc": "assets/images/47.jpeg",
         "question": "В какой стране тысячи лет назад придумали иероглифы?",
         "answers": [
             "Китай",
@@ -756,7 +756,7 @@
         "title": "Вопрос 48",
         "prompt": "Вопрос 48",
         "mediaType": "image",
-        "mediaSrc": "assets/images/48.jpg",
+        "mediaSrc": "assets/images/48.jpeg",
         "question": "Перед вами один из древнейших и уникальных алфавитов мира, не похожий ни на один другой. В какой стране Кавказа на нём пишут?",
         "answers": [
             "Армения",
@@ -772,7 +772,7 @@
         "title": "Вопрос 49",
         "prompt": "Вопрос 49",
         "mediaType": "image",
-        "mediaSrc": "assets/images/49.jpg",
+        "mediaSrc": "assets/images/49.jpeg",
         "question": "Вопрос 49: Текст вопроса временно отсутствует.",
         "answers": [
             "Вариант 1",
@@ -788,7 +788,7 @@
         "title": "Вопрос 50",
         "prompt": "Вопрос 50",
         "mediaType": "image",
-        "mediaSrc": "assets/images/50.jpg",
+        "mediaSrc": "assets/images/50.jpeg",
         "question": "Этот алфавит считается одним из самых логичных в мире, так как формы его букв повторяют положение языка и губ при произношении. Как он называется?",
         "answers": [
             "Катана",
